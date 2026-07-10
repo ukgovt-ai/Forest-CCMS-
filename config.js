@@ -6,7 +6,7 @@
    https://script.google.com/macros/s/AKfycb.../exec
    ============================================================ */
 window.CCMS_CONFIG = {
-  SCRIPT_URL: "PASTE_YOUR_APPS_SCRIPT_URL_HERE",
+  SCRIPT_URL: "https://script.google.com/macros/s/AKfycbyANZMQ_ZTw11-MYOXczth98WANVeqk0tB1oKUgEy3tLT1pzoXHx_z9ladB8vLb-k-y/exec",
   APP_NAME: "Court Case Monitoring System",
-  DEPARTMENT: "Forest & Allied Departments, Uttarakhand"
+  DEPARTMENT: "Forest Department Uttarakhand"
 };

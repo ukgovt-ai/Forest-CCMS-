@@ -4,7 +4,7 @@
    - Hashed build assets, icons, fonts : cache-first (they never change under the same name)
    - Apps Script API calls are POST requests — never cached (the app keeps its own last-known snapshot in localStorage)
 */
-const VERSION = "ccms-v1";
+const VERSION = "ccms-v2";
 const SHELL = ["./", "./index.html", "./config.js", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png"];
 
 self.addEventListener("install", (e) => {
